@@ -1,0 +1,40 @@
+
+* {
+    box-sizing: border-box;
+  }
+  body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #FFA500;
+    font-family: Arial;
+    display: inline-flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+  }
+  
+  .textbox {
+    width: 500px;
+    padding: 500px 20px; 
+    background-color: #fff;
+  }
+  
+
+  header {
+    font-size: large;
+    color: #ff00ff;
+    margin-bottom: 10px;
+    text-decoration: underline;
+  }
+  
+  .joke-text {
+    font-size: x-large;
+    margin-bottom: 100px;
+    font-family: Arial;
+  }
+  
+  .joke-butt {
+    background-color: #ff00ff;
+  }
+  
